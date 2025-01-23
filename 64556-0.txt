@@ -14,7 +14,6 @@ Title: Lodore, Vol. 2 (of 3)
 Author: Mary Wollstonecraft Shelley
 
 Release Date: February 14, 2021 [eBook #64556]
-[Most recently updated: October 26, 2021]
 
 Language: English
 
@@ -24,9 +23,6 @@ Produced by: Laura Natal Rodrigues at Free Literature (Images generously
              made available by Hathi Trust Digital Library.)
 
 *** START OF THE PROJECT GUTENBERG EBOOK LODORE, VOL. 2 (OF 3) ***
-
-
-
 
 LODORE.
 
@@ -233,8 +229,8 @@ Lady Lodore."
 
 "God forbid!" exclaimed the old lady; "it was my brother's dying wish, that
 she should never hear Lady Lodore's name, and I have religiously observed
-it. Ethel only knows that she was the cause of her father's misfortunes,
-that she deserted every duty, and is unworthy of the name she bears."
+it. Ethel only knows that cause of her father's misfortunes, that she
+deserted every duty, and is unworthy of the name she bears."
 
 Villiers was astonished at this tirade falling from the lips of the
 unusually placid maiden, whose heightened colour bespoke implacable
@@ -974,7 +970,7 @@ understanding the meaning of the phrases addressed to her, and, unable
 to conceal her perturbation, she replied at random, and hastened to
 shorten her visit.
 
-But no interval of doubt or hope was afforded. The words she had heard
+But not interval of doubt or hope was afforded. The words she had heard
 were concise, true to their meaning and all-sufficing. Her heart died
 within her. What had she done? Was she the cause? She longed to learn
 all the circumstances that led to this hasty marriage, and whether
@@ -1164,7 +1160,7 @@ colours most agreeable to every eye.
 
 They addressed each other as if they had met but the day before. At
 first, a few questions and answers passed,--as to where she had been on
-the continent, how she liked Baden, &c.;--and then Lady Lodore
+the continent, how she liked Baden, & co.;--and then Lady Lodore
 said--"Although I have not seen her for several years, I instantly
 recognized a relative of mine with you yesterday evening. Does Miss
 Fitzhenry make any stay in town?"
@@ -2297,7 +2293,7 @@ her fortitude too high; and while her heart felt all the tumults of
 despair, she found herself asking what his love could be, that could
 submit to lose her? Love in a cottage is the dream of many a high-born
 girl, who is not allowed to dance with a younger brother at Almack's;
-but a secluded, an obscure, an almost cottage life, was all that Ethel
+but asecluded, an obscure, an almost cottage life, was all that Ethel
 had ever known, and all that she coveted. Villiers rejected this--not
 for her sake, that could not be, but for the sake of a world, which he
 called frivolous and vain, and yet to whose tyranny he bowed. To
@@ -2646,7 +2642,7 @@ Mrs. Elizabeth thought her niece very young to marry; but Villiers, who
 had, while hesitating, done his best to hide his sweet Ethel away from
 every inquisitive eye, now that she was to be his own, hastened to
 introduce Lord Maristow (Lady Maristow had died two years before) to
-her, and to bring her among his cousins, whom he regarded as sisters.
+her, and to bring her among his cousins, whom her regarded as sisters.
 The change was complete and overwhelming to the fair recluses. Where
 before they lived in perpetual tête-à-tête, or separated but to be
 alone, they were now plunged into what appeared to them a crowd. Sophia,
@@ -3931,7 +3927,7 @@ traces of him--she gave herself up to thought, and as he was the object
 of all her thoughts, this was her best consolation. She reviewed the
 happy days they had spent together--she dwelt on the memory of his
 unalterable affection and endearing kindness, and then tears rushed into
-her eyes. "Will any ill ever befall him?" she thought. "O no, none ever
+her eyes. "Will any ill every befall him?" she thought. "O no, none ever
 can! he must be rewarded for his goodness and his love. How dear he
 ought to be to me! Did he not take the poor friendless girl from
 solitude and grief; and disdaining neither her poverty nor her orphan
